@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>예제파일 만들기</title>
+	<style type="text/css">
+		.gray{background: gray;color:white;}
+		.red{background}	
+</head>
+
